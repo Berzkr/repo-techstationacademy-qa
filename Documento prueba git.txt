@@ -1,3 +1,5 @@
 Tester mariano suppo
 
 v1 - documento creado para practica de git y github en el curso de QA manual de la Teco TechStation Academy
+
+v2 - cambios realizados para la rama nueva mi-rama-nueva
