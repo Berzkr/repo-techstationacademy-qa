@@ -1,0 +1,3 @@
+Tester mariano suppo
+
+v1 - documento creado para practica de git y github en el curso de QA manual de la Teco TechStation Academy
